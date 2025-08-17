@@ -18,4 +18,3 @@ export const For = <T,> ({
 				: emptyState}
 		</>
 	);
-};
